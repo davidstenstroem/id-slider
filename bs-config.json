@@ -1,0 +1,10 @@
+{
+  "port":7777,
+  "injectChanges":true,
+  "watchOptions":{
+    "ignored":[
+      "node_modules",
+      "sass"
+    ]
+  }
+}
