@@ -10,7 +10,7 @@
   "author": "David Stenstrøm <david@stenstroem.dk>",
   "license": "ISC",
   "dependencies": {
-    "swiper": "^3.4.2"
+    "swiper": "^6.5.1"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
